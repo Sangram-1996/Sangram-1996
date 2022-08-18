@@ -6,7 +6,7 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
   💼 any freelance work? do reach [email](mailto:sangramkesharisahu96@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
-  👨‍💻 Checkout my [Portfolio](https://sangram-keshari-sahu-portfolio.netlify.app) <br/>
+  👨‍💻 Checkout my [Portfolio](https://sangram-keshari-sahu-portfolio.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/sangram-keshari-sahu) <br/>
 
 
 <!--
