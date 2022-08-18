@@ -7,11 +7,6 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
   💼 any freelance work? do reach [email](mailto:sangramkesharisahu96@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
   👨‍💻 Checkout my Portfolio <br/>
-  
-  
-  
-  
-                                                       LANGUAGES AND TOOLS:
 
 
 <!--
