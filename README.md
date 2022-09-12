@@ -54,8 +54,8 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
   
   
   <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-1996&theme=radical&langs_count=8" alt="Sangram Keshari" height="220px" width="25%" />
-  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangram-1996&theme=radical" alt="Sangram-1996" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangram-1996&theme=radical&langs_count=8" alt="Sangram Keshari" height="230px" width="25%" />
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangram-1996&theme=radical" alt="Sangram-1996" height="220px" width="70%"/>
   
 
 <div>
