@@ -8,7 +8,7 @@ I'm [Sangram](https://github.com/Sangram-1996), An Aspiring Backend Developer wi
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
 
 
-  💼 any freelance work? do reach [email](mailto:sangramkesharisahu96@gmail.com) <br/>
+  💼 Do reach [email](mailto:sangramkesharisahu96@gmail.com) <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
   👨‍💻 Checkout my [Portfolio](https://sangram-keshari-sahu-portfolio.netlify.app) & [my linkedin profile](https://www.linkedin.com/in/sangram-keshari-sahu) <br/>
   
